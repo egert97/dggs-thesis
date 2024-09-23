@@ -1,0 +1,7 @@
+dggrid_operation GENERATE_GRID
+dggs_type ISEA4T
+dggs_res_spec 5
+clip_subset_type WHOLE_EARTH
+cell_output_type GDAL
+cell_output_gdal_format GeoJSON
+cell_output_file_name C:\Users\egert\dggs_t1-master\temp_ISEA4T_5_out_de2f2c4d-5f4d-4797-b6bb-2fe7037689a2.geojson
